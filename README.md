@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dqk0902
-- 👀 I am a student in BITE degree
+- 👀 I am a student in ITBBA degree
 - 🌱 I’m currently learning everything about coding
 
 <!---
