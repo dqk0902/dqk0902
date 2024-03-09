@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dqk0902
-- 👀 I am software developer trainee in Nokia
+- 👀 I am Junior Software Engineer at Smnartly.io
 - 🌱 I’m currently learning everything about coding
 
 <!---
