@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dqk0902
-- 👀 I am Junior Software Engineer at Smartly.io
+- 👀 I am Software Engineer at Smartly.io
 - 🌱 I’m currently learning everything about coding
 
 <!---
